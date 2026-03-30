@@ -1,6 +1,6 @@
 # GerenciamentoSupermercado
 Laboratorio 1: Sistema de Supermercado - Projeto de Programação Orientada a Objetos, 
-desenvolvido em Java para a disciplina de Linguagem de Programação II
+desenvolvido em Java para a disciplina de Linguagem de Programação II.
 
 ## 📝 Conceitos de Programação que ele exercita
 - Abstração: Uso da classe abstrata Produto. Ela serve como um molde e impede que alguém crie um produto "genérico" sem categoria no sistema.
